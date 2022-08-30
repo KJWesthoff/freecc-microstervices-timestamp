@@ -42,11 +42,7 @@ router.get('/:datestring?', (req,res,next)=>{
 
 
 
-router.get("/derka", (req,res) => {
 
-    res.json({msg:"derka daka derka"})
-  
-})
   
 
 module.exports = router;

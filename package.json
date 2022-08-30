@@ -4,7 +4,7 @@
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
 	"scripts": {
-		"start": "PORT=3000 node server.js",
+		"start": "node server.js",
 		"nodemon": "PORT=8000 nodemon server.js"
 	},
 	"dependencies": {
